@@ -1,0 +1,2 @@
+# gobase
+go basic code
